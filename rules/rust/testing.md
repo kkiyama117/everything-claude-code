@@ -1,3 +1,7 @@
+---
+paths: "**/*.rs"
+---
+
 # Rust Testing
 
 > This file extends [common/testing.md](../common/testing.md) with Rust specific content.

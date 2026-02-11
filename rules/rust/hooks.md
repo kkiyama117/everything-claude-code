@@ -1,3 +1,7 @@
+---
+paths: "**/*.rs"
+---
+
 # Rust Hooks
 
 > This file extends [common/hooks.md](../common/hooks.md) with Rust specific content.
