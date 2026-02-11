@@ -35,6 +35,8 @@
     "./agents/planner.md",
     "./agents/python-reviewer.md",
     "./agents/refactor-cleaner.md",
+    "./agents/rust-build-resolver.md",
+    "./agents/rust-reviewer.md",
     "./agents/security-reviewer.md",
     "./agents/tdd-guide.md"
   ]
